@@ -1,4 +1,4 @@
-# GraildScraper
+# GrilledScraper
 # Purpose
 This project was developed as a price discovery tool from historical sold prices of various items listed on grailed.com. This project was purposely built to be deployed in Google Colabs cloud based ipython notebook. The code is very flexible and light in design. There are some parts I will work to fix such as the use of the CSV and Pandas library where only one library is needed. Moreover, this application uses a selenium library (kora.selenium) specifically designed for the Google Colab environment. I must thank Korakot Chaovavanich (@korakot) for the selenium library and user:mack on stackoverflow for helping edit the code. 
 # Considerations 
